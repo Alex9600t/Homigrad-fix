@@ -71,7 +71,7 @@ function StartRound()
 		end
 	end
 
-	RunConsoleCommand("hostname","СEPBEP ЛOХOВ")
+	RunConsoleCommand("hostname","Homiverse")
 
 	timer.Simple(5,function() flashlightOverride = false end)
 
